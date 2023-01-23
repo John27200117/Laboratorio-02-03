@@ -1,8 +1,8 @@
 # 2.Corra el algoritmo anterior "desordena"(del ejercicio 1) muchas veces para la misma sucesión de entrada.¿Como puede analizarse para determinar si es verdaderamente "aleatorio"?
 import random
-print('-------------------------------------')
+
 print('------------Pregunta N°2-------------')
-print('-------------------------------------')
+
 
 
 def desordenar(lista, largoL, contador):
