@@ -1,8 +1,8 @@
 # 1.Implemente el siguiente algoritmo como un programa para desordenar.
 import random
-print('-------------------------------------')
+
 print('------------Pregunta N°1-------------')
-print('-------------------------------------')
+
 
 
 def desordena(lista, largoL, contador):
